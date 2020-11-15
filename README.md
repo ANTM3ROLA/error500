@@ -1,1 +1,1 @@
-# error500
+# pagina-error500
